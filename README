@@ -1,0 +1,99 @@
+# 👋 Hi, I'm Kate Vavra-Musser  
+### Geospatial Data Scientist • Environmental Health Researcher • Spatial Epidemiologist
+
+<p style="font-size:14px; line-height:1.5;">
+I'm an interdisciplinary researcher and data scientist specializing in geospatial analytics, environmental health, and population science.  My work professional work bridges spatial data engineering, statistical modeling, and climate–health research to advance environmental justice and public health equity.  I develop reproducible, open workflows in R and Python and build tools that make complex spatial-demographic data easier to use, interpret, and teach. </p>
+---
+
+## 🚀 What I Do
+
+- **Geospatial & Environmental Health Research**  
+  Modeling exposure to environmental hazards—heat, air pollution, lead, land use and other outcomes to understand health and social disparities across communities.
+
+- **Reproducible Spatial Data Workflows**  
+  Creator and lead developer of the *[R Spatial Notebooks](https://vavramusser.github.io/r-spatial)* project: reproducible notebooks integrating open spatial data (IPUMS, NLCD, ACS, NHGIS) with transparent analysis pipelines.  
+  - [R Spatial Notebooks Landing Page](https://vavramusser.github.io/r-spatial)<br>
+  - [Unlocking Spatial and Social Data with R: Introducing the R Spatial Notebook Series](https://blog.popdata.org/introducing-the-r-spatial-notebook-series) (Article for the [IPUMS Blog](https://blog.popdata.org))
+
+- **Spatial Statistics & Epidemiological Modeling**  
+  Building models to study climate vulnerability, aging and health, and neighborhood exposures.
+
+- **Data Integration & Large-Scale Pipelines**  
+  Experience linking administrative, demographic, and environmental datasets (IRS, Medicare, Census, TRI, gridMET, HRS).  
+  :contentReference[oaicite:3]{index=3}
+
+- **Teaching & Capacity Building**  
+  Former GIS lecturer and developer of geospatial curriculum for NSF I-GUIDE.  
+  :contentReference[oaicite:4]{index=4}
+
+---
+
+## 🧰 Technical Toolbox
+
+**Programming:** R, Python, Stata, SQL, SAS  
+**Spatial Tools:** QGIS, ArcGIS, raster/vector analysis, spatial data engineering  
+**Methods:** Spatial epidemiology, exposure modeling, regression, longitudinal data, population health analytics  
+**Data:** IPUMS, ACS/NHGIS, EPA TRI, NLCD, HRS, gridMET, Census microdata  
+:contentReference[oaicite:5]{index=5}
+
+---
+
+## 🗂️ Featured Projects
+
+Here are some projects I’m currently building or maintaining:
+
+### 🔹 **R Spatial Notebooks**  
+Reproducible, modular R notebooks for geospatial workflows in social and environmental sciences — integrating open data, spatial statistics, and transparent pipelines.
+
+### 🔹 **Environmental Exposure Modeling Notebooks**  
+High-resolution neighborhood exposure estimates for heat, air pollution, and land-use patterns, aligned with public health survey data.
+
+### 🔹 **Climate–Aging Vulnerability Explorer**  
+Spatial analysis tools for identifying communities facing overlapping climate and aging-related risks.
+
+### 🔹 **Physician Workforce Linkage Project (Census)**  
+Multi-source administrative data pipeline linking IRS, Census, and Medicare data for health workforce analytics.
+
+(Links will automatically display on your profile as you pin repositories.)
+
+---
+
+## 📚 Publications & Writing  
+- Google Scholar: https://scholar.google.com/citations?user=7Y98C_AAAAAJ  
+- Website/Portfolio: https://vavramusser.github.io  
+- Selected publications in environmental health, spatial epidemiology, and population research.
+
+---
+
+## 🌱 I’m Currently Working On  
+- Building open, reusable tools for spatial-demographic integration  
+- New workflows for climate and health modeling in R  
+- Expanding the R Spatial Notebooks project  
+- Improving the accessibility of environmental justice data for researchers and communities
+
+---
+
+## 🤝 Collaboration & Consulting  
+I'm available for collaborations in:  
+- Environmental & climate-health research  
+- Geospatial analysis and data engineering  
+- Public health surveillance and exposure modeling  
+- Reproducible research workflows  
+- Curriculum development & geospatial training  
+
+---
+
+## 📫 Contact  
+**Email:** vavramusser@gmail.com  
+**LinkedIn:** https://linkedin.com/in/vavramusser  
+**GitHub:** https://github.com/vavramusser
+
+---
+
+If you'd like, I can:  
+✅ generate a more minimal/short version  
+✅ create a version with badges/icons  
+✅ tailor the README to industry jobs (e.g., data science roles)  
+✅ create matching repo templates or a portfolio landing page  
+
+Just tell me what style you want.
